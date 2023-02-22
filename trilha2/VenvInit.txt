@@ -1,0 +1,6 @@
+Caso precise instalar um venv em outro diretório,
+basta executar python -m venv .venv
+dentro do diretório do projeto. O vscode vai buscar automaticamente.
+Se não, command+p e pesquisar ">Python: Interpreter"
+
+Boa codação!!! 
