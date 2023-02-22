@@ -31,3 +31,5 @@ plt.show()
 
 data = arrow.utcnow()
 print(dir(arrow))
+
+"""Testando alterações"""
