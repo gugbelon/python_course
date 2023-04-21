@@ -8,3 +8,10 @@ valueerror = erro de valor
 keyerror = erros de chave, quando chama errado e outros...
 attributeerror = 
 """
+valor = 3
+dicionario = {
+    "chave":valor
+}
+
+if __name__=="__main__":
+    print("Importamos")
